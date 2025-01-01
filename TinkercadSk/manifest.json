@@ -1,0 +1,15 @@
+{
+  "header": {
+    "name": "TcadChallenge",
+    "version": [1, 0, 0],
+    "uuid": "0e3f7bd0-567d-4cf9-b6d5-bb4c1ec88f5a"
+  },
+  "modules": [
+    {
+      "version": [1, 0, 0],
+      "type": "skin_pack",
+      "uuid": "92e90ba4-b4e2-4c39-b62e-f1ed08499736"
+    }
+  ],
+  "format_version": 1
+}

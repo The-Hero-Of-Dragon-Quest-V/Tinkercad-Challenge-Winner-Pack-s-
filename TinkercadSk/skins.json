@@ -1,0 +1,13 @@
+{
+    "serialize_name": "TcadChallenge",
+    "localization_name": "TcadChallenge",
+    "skins": [
+      {
+        "localization_name": "winner",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "win.png",
+        "type": "free"
+      }
+    ]
+  }
+  
